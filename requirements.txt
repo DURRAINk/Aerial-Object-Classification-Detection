@@ -1,0 +1,13 @@
+# For the main application
+streamlit
+tensorflow
+ultralytics
+
+# For Notebook
+# numpy
+# pandas
+# matplotlib
+# scikit-learn
+#os
+#zipfile
+#gdown
