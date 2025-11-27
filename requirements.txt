@@ -2,6 +2,7 @@
 streamlit
 tensorflow
 ultralytics
+opencv-python-headless
 
 # For Notebook
 # numpy
