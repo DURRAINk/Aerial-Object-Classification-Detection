@@ -1,1 +1,0 @@
-# Aerial Object Classification & Detection
